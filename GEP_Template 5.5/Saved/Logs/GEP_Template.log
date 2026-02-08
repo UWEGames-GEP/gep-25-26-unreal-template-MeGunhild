@@ -4546,3 +4546,1008 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.08-16.43.17:637][916]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2026.02.08-16.43.52:794][ 22]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2026.02.08-16.44.09:363][ 71]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.44.26:042][121]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.44.41:055][167]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4179.697266
+[2026.02.08-16.44.42:057][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-16.44.42:057][169]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4180.363770, Update Interval: 304.392822
+[2026.02.08-16.44.42:281][170]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.45.10:511][255]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.45.25:195][299]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.45.37:323][335]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.45.54:117][385]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.46.32:825][501]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.46.42:927][532]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.47.05:562][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-16.47.05:599][ 18]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.08-16.47.05:599][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.08-16.47.05:633][ 18]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.08-16.47.05:634][ 18]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_ThirdPersonCharacter1D6345F04647CD4053BB93ABCD318449.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.08-16.47.05:654][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.520 ms (total: 1.43 sec)
+[2026.02.08-16.47.05:703][ 18]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-16.47.05:703][ 18]LogContentValidation: Enabled validators:
+[2026.02.08-16.47.05:703][ 18]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-16.47.05:703][ 18]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-16.47.05:703][ 18]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-16.47.05:703][ 18]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-16.47.05:703][ 18]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-16.47.05:703][ 18]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-16.47.05:703][ 18]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.08-16.48.50:006][222]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.49.01:125][255]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.49.25:407][723]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.49.35:602][361]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.02.08-16.49.35:646][361]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.02.08-16.49.35:654][361]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.02.08-16.49.35:689][361]LogAutomationController: Ignoring very large delta of 2.81 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.02.08-16.49.35:709][363]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.02.08-16.49.39:010][495]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2026.02.08-16.49.39:060][495]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.02.08-16.49.46:133][231]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Inventory
+[2026.02.08-16.49.46:520][231]LogMetaData: Removing '/Game/CustomScript/WB_Inventory.SKEL_WB_Inventory_C' ref from Metadata '/Game/CustomScript/NewWidgetBlueprint.PackageMetaData'
+[2026.02.08-16.49.46:520][231]LogMetaData: Removing '/Game/CustomScript/WB_Inventory.WB_Inventory_C' ref from Metadata '/Game/CustomScript/NewWidgetBlueprint.PackageMetaData'
+[2026.02.08-16.49.46:520][231]LogMetaData: Removing '/Game/CustomScript/WB_Inventory.WB_Inventory:EventGraph.K2Node_Event_0' ref from Metadata '/Game/CustomScript/NewWidgetBlueprint.PackageMetaData'
+[2026.02.08-16.49.46:520][231]LogMetaData: Removing '/Game/CustomScript/WB_Inventory.WB_Inventory:EventGraph.K2Node_Event_1' ref from Metadata '/Game/CustomScript/NewWidgetBlueprint.PackageMetaData'
+[2026.02.08-16.49.46:520][231]LogMetaData: Removing '/Game/CustomScript/WB_Inventory.WB_Inventory:EventGraph.K2Node_Event_2' ref from Metadata '/Game/CustomScript/NewWidgetBlueprint.PackageMetaData'
+[2026.02.08-16.49.46:536][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-16.49.46:536][231]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomScript/WB_Inventory] ([2] browsable assets)...
+[2026.02.08-16.49.46:568][231]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CustomScript/WB_Inventory.WB_Inventory]
+[2026.02.08-16.49.46:569][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomScript/WB_Inventory]
+[2026.02.08-16.49.46:569][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomScript/WB_Inventory" FILE="../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset" SILENT=true
+[2026.02.08-16.49.46:593][231]LogSavePackage: Moving output files for package: /Game/CustomScript/WB_Inventory
+[2026.02.08-16.49.46:593][231]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/WB_InventoryA2AC7E4E4187C5BF453FC0A287D88BFE.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset'
+[2026.02.08-16.49.46:593][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.128 ms (total: 1.48 sec)
+[2026.02.08-16.49.46:627][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.02.08-16.49.46:673][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.02.08-16.49.46:716][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.02.08-16.49.46:776][231]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-16.49.46:776][231]LogContentValidation: Enabled validators:
+[2026.02.08-16.49.46:776][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-16.49.46:776][231]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-16.49.46:776][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-16.49.46:776][231]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-16.49.46:776][231]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-16.49.46:776][231]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-16.49.46:776][231]AssetCheck: /Game/CustomScript/WB_Inventory Validating asset
+[2026.02.08-16.49.52:670][636]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.49.53:631][670]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CustomScript/WB_Inventory.WB_Inventory
+[2026.02.08-16.49.53:631][670]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.02.08-16.49.53:641][670]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.02.08-16.49.53:647][670]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.02.08-16.49.54:267][670]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2026.02.08-16.49.54:268][670]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2026.02.08-16.49.54:723][670]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2026.02.08-16.49.54:737][670]LogSlate: Took 0.013079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.08-16.50.06:787][972]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.50.18:554][  7]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.50.29:385][ 40]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.50.35:593][ 58]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4534.234863
+[2026.02.08-16.50.36:658][ 61]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-16.50.36:658][ 62]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4534.901367, Update Interval: 309.983215
+[2026.02.08-16.50.44:622][ 85]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.50.57:496][124]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.51.13:667][173]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.51.42:435][342]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.52.00:144][488]LogSlate: Took 0.038352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.02.08-16.52.03:212][721]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:215][721]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:220][721]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:313][722]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:352][722]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:368][723]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:370][723]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:461][724]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:492][724]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:508][725]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:512][725]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:597][726]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:640][727]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:645][727]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:731][728]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:761][728]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.03:775][729]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.04:296][741]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.52.07:515][977]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.07:517][977]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.07:521][977]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.07:610][978]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.07:612][978]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.07:658][979]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.07:664][979]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.07:781][980]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.07:907][982]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.07:922][983]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.08:048][985]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.08:131][986]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.08:133][986]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.08:135][986]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.08:136][986]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.08:137][986]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.08:166][986]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.08:182][987]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.08:184][987]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.08:268][988]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.08:298][988]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.08:314][989]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.08:396][990]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.08:400][990]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.09:919][ 87]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.09:920][ 87]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.09:921][ 87]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.09:922][ 87]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.09:926][ 87]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.10:012][ 88]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.10:042][ 88]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.10:057][ 89]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.10:143][ 90]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.10:175][ 90]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.10:190][ 91]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.10:319][ 93]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.10:433][ 94]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.10:561][ 96]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.10:577][ 97]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.10:664][ 98]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.26:851][805]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.26:853][805]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.26:855][805]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.26:990][807]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.52.27:077][808]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.53.09:105][587]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.53.20:625][622]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.53.37:927][692]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.53.53:276][714]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.54.08:231][758]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.54.48:799][578]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.54.48:801][578]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.54.48:898][579]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.54.48:927][579]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.54.48:944][580]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.54.49:078][582]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.54.49:193][583]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.54.49:339][585]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.54.49:354][586]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.54.49:490][588]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.55.20:276][884]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.55.40:916][133]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.55.55:449][977]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.56.15:288][ 36]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.56.28:943][ 31]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4887.590332
+[2026.02.08-16.56.29:127][ 45]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-16.56.29:127][ 45]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4887.761719, Update Interval: 315.483856
+[2026.02.08-16.57.28:793][112]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.57.46:796][438]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.46:797][438]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.46:804][438]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.46:920][439]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.46:924][439]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.46:927][439]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.46:973][440]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.46:976][440]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.46:982][440]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:077][441]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:119][441]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:135][442]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:139][442]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:143][442]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:145][442]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:149][442]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:152][442]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:249][443]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:253][443]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:293][443]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:312][444]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:405][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:410][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:413][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:416][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:420][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:423][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:427][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:430][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:433][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:436][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:440][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:443][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:446][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:449][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:451][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:454][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:458][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:461][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:464][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:467][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:470][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:473][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:477][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:480][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:483][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:486][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:490][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:493][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:495][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:498][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:501][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:505][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:508][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:511][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:514][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:517][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:520][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:524][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:526][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:529][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:531][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:535][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:538][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:541][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:544][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:547][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:550][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:553][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:556][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:559][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:561][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:565][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:569][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:572][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:574][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:577][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:580][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:584][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:587][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:590][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:593][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:596][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:599][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:603][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:605][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:608][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:611][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:614][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:617][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:620][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:623][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:626][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:629][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:631][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:635][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:638][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:688][446]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:695][446]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:786][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:791][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:794][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:797][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:800][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:804][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:808][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:810][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:813][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:816][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:819][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:822][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:826][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:829][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:831][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:834][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:837][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:840][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:843][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:846][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:850][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:853][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:856][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:859][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:861][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:865][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:868][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:871][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:874][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:877][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:880][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:883][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:886][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:888][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:891][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:894][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:934][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.47:951][448]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:053][449]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:094][449]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:114][450]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:203][451]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:257][452]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:263][452]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:353][453]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:391][453]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:407][454]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:503][455]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:508][455]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:549][455]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:569][456]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:665][457]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:722][458]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:852][459]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.48:996][461]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.49:015][462]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.49:160][464]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.49:285][465]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.49:392][467]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.49:433][467]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.49:452][468]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.49:544][469]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.49:602][470]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.49:741][471]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.49:848][473]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.49:888][473]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.49:906][474]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.49:914][474]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.50:006][475]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.50:060][476]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.50:066][476]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.50:192][477]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.50:207][478]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.50:211][478]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.50:303][479]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.50:307][479]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.50:347][479]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.50:364][480]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.50:370][480]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.50:467][481]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.50:529][482]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.50:537][482]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.57.50:636][483]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.08-16.58.01:478][759]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.58.21:568][938]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.58.39:441][194]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.58.53:473][236]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.59.08:081][280]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.59.20:630][515]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.59.31:002][968]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-16.59.45:412][ 11]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.00.05:082][859]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.00.22:368][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.02.08-17.00.22:370][138]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.071
+[2026.02.08-17.00.22:371][138]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomScript/WB_Inventory] ([2] browsable assets)...
+[2026.02.08-17.00.22:373][138]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CustomScript/WB_Inventory.WB_Inventory]
+[2026.02.08-17.00.22:373][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomScript/WB_Inventory]
+[2026.02.08-17.00.22:376][138]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomScript/WB_Inventory_Auto5
+[2026.02.08-17.00.22:376][138]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/WB_Inventory_Auto5C5DADE2D4E18D8B9B836398BD8A0D7BF.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/Autosaves/Game/CustomScript/WB_Inventory_Auto5.uasset'
+[2026.02.08-17.00.22:377][138]LogFileHelpers: Auto-saving content packages took 0.007
+[2026.02.08-17.00.49:477][359]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.01.00:666][814]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.02.08-17.01.28:436][274]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.01.38:201][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.01.38:241][855]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomScript/WB_Inventory] ([2] browsable assets)...
+[2026.02.08-17.01.38:243][855]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CustomScript/WB_Inventory.WB_Inventory]
+[2026.02.08-17.01.38:243][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomScript/WB_Inventory]
+[2026.02.08-17.01.38:243][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomScript/WB_Inventory" FILE="../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset" SILENT=true
+[2026.02.08-17.01.38:246][855]LogSavePackage: Moving output files for package: /Game/CustomScript/WB_Inventory
+[2026.02.08-17.01.38:247][855]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/WB_Inventory175EDE10458F4EE4B7EE8AAF72737EB7.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset'
+[2026.02.08-17.01.38:265][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.105 ms (total: 1.54 sec)
+[2026.02.08-17.01.38:308][855]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.01.38:308][855]LogContentValidation: Enabled validators:
+[2026.02.08-17.01.38:308][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.01.38:308][855]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.01.38:308][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.01.38:308][855]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.01.38:308][855]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.01.38:308][855]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.01.38:309][855]AssetCheck: /Game/CustomScript/WB_Inventory Validating asset
+[2026.02.08-17.01.39:009][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.02.08-17.01.51:739][445]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.02.36:599][695]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.02.41:936][807]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5260.583496
+[2026.02.08-17.02.42:937][811]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-17.02.42:937][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5261.255371, Update Interval: 330.222473
+[2026.02.08-17.02.51:932][ 59]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.03.13:305][813]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.03.41:803][279]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.03.53:084][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.03.53:120][353]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomScript/WB_Inventory] ([2] browsable assets)...
+[2026.02.08-17.03.53:124][353]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CustomScript/WB_Inventory.WB_Inventory]
+[2026.02.08-17.03.53:124][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomScript/WB_Inventory]
+[2026.02.08-17.03.53:124][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomScript/WB_Inventory" FILE="../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset" SILENT=true
+[2026.02.08-17.03.53:128][353]LogSavePackage: Moving output files for package: /Game/CustomScript/WB_Inventory
+[2026.02.08-17.03.53:128][353]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/WB_Inventory7AA13BD64158116E0DF0F193AA5AC7B3.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset'
+[2026.02.08-17.03.53:142][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.069 ms (total: 1.60 sec)
+[2026.02.08-17.03.53:177][353]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.03.53:177][353]LogContentValidation: Enabled validators:
+[2026.02.08-17.03.53:178][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.03.53:178][353]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.03.53:178][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.03.53:178][353]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.03.53:178][353]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.03.53:178][353]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.03.53:178][353]AssetCheck: /Game/CustomScript/WB_Inventory Validating asset
+[2026.02.08-17.04.08:033][269]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.04.30:182][868]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.04.53:619][722]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.05.23:418][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.05.23:454][ 49]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomScript/WB_Inventory] ([2] browsable assets)...
+[2026.02.08-17.05.23:456][ 49]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CustomScript/WB_Inventory.WB_Inventory]
+[2026.02.08-17.05.23:456][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomScript/WB_Inventory]
+[2026.02.08-17.05.23:456][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomScript/WB_Inventory" FILE="../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset" SILENT=true
+[2026.02.08-17.05.23:460][ 49]LogSavePackage: Moving output files for package: /Game/CustomScript/WB_Inventory
+[2026.02.08-17.05.23:460][ 49]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/WB_InventoryEDF9A17149465832D558308BA501511C.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset'
+[2026.02.08-17.05.23:474][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.773 ms (total: 1.65 sec)
+[2026.02.08-17.05.23:508][ 49]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.05.23:509][ 49]LogContentValidation: Enabled validators:
+[2026.02.08-17.05.23:509][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.05.23:509][ 49]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.05.23:509][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.05.23:509][ 49]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.05.23:509][ 49]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.05.23:509][ 49]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.05.23:509][ 49]AssetCheck: /Game/CustomScript/WB_Inventory Validating asset
+[2026.02.08-17.06.03:654][759]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.06.16:230][797]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.06.29:379][836]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.06.46:690][132]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.07.09:616][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.07.09:653][454]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomScript/WB_Inventory] ([2] browsable assets)...
+[2026.02.08-17.07.09:655][454]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CustomScript/WB_Inventory.WB_Inventory]
+[2026.02.08-17.07.09:655][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomScript/WB_Inventory]
+[2026.02.08-17.07.09:655][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomScript/WB_Inventory" FILE="../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset" SILENT=true
+[2026.02.08-17.07.09:658][454]LogSavePackage: Moving output files for package: /Game/CustomScript/WB_Inventory
+[2026.02.08-17.07.09:658][454]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/WB_Inventory3C4F1EAD47C5B8CEBA245897CAD36964.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset'
+[2026.02.08-17.07.09:672][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.076 ms (total: 1.71 sec)
+[2026.02.08-17.07.09:706][454]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.07.09:706][454]LogContentValidation: Enabled validators:
+[2026.02.08-17.07.09:706][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.07.09:706][454]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.07.09:706][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.07.09:706][454]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.07.09:706][454]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.07.09:706][454]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.07.09:706][454]AssetCheck: /Game/CustomScript/WB_Inventory Validating asset
+[2026.02.08-17.07.15:345][594]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.07.50:325][938]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.08.01:600][768]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.08.23:280][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.08.23:315][932]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomScript/WB_Inventory] ([2] browsable assets)...
+[2026.02.08-17.08.23:317][932]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CustomScript/WB_Inventory.WB_Inventory]
+[2026.02.08-17.08.23:317][932]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomScript/WB_Inventory]
+[2026.02.08-17.08.23:317][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomScript/WB_Inventory" FILE="../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset" SILENT=true
+[2026.02.08-17.08.23:323][932]LogSavePackage: Moving output files for package: /Game/CustomScript/WB_Inventory
+[2026.02.08-17.08.23:323][932]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/WB_Inventory758C2095488F0A8C7EE1359DF3516B08.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset'
+[2026.02.08-17.08.23:336][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.465 ms (total: 1.77 sec)
+[2026.02.08-17.08.23:378][932]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.08.23:378][932]LogContentValidation: Enabled validators:
+[2026.02.08-17.08.23:378][932]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.08.23:378][932]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.08.23:378][932]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.08.23:378][932]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.08.23:378][932]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.08.23:378][932]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.08.23:378][932]AssetCheck: /Game/CustomScript/WB_Inventory Validating asset
+[2026.02.08-17.09.01:440][549]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5640.111816
+[2026.02.08-17.09.02:447][553]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-17.09.02:447][553]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5640.774414, Update Interval: 348.138062
+[2026.02.08-17.09.02:552][553]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.09.15:247][417]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.09.49:531][448]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.10.05:521][496]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.10.22:260][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.10.22:297][866]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomScript/WB_Inventory] ([2] browsable assets)...
+[2026.02.08-17.10.22:300][866]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CustomScript/WB_Inventory.WB_Inventory]
+[2026.02.08-17.10.22:300][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomScript/WB_Inventory]
+[2026.02.08-17.10.22:300][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomScript/WB_Inventory" FILE="../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset" SILENT=true
+[2026.02.08-17.10.22:304][866]LogSavePackage: Moving output files for package: /Game/CustomScript/WB_Inventory
+[2026.02.08-17.10.22:305][866]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/WB_Inventory64018A4347A8EE3409A3459C53E8AE32.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset'
+[2026.02.08-17.10.22:321][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.497 ms (total: 1.83 sec)
+[2026.02.08-17.10.22:368][866]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.10.22:368][866]LogContentValidation: Enabled validators:
+[2026.02.08-17.10.22:368][866]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.10.22:368][866]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.10.22:368][866]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.10.22:368][866]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.10.22:368][866]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.10.22:368][866]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.10.22:368][866]AssetCheck: /Game/CustomScript/WB_Inventory Validating asset
+[2026.02.08-17.10.23:041][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.02.08-17.10.23:045][892]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.333
+[2026.02.08-17.10.23:047][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/IMC_Default] ([1] browsable assets)...
+[2026.02.08-17.10.23:047][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/IMC_Default]
+[2026.02.08-17.10.23:050][892]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Input/IMC_Default_Auto6
+[2026.02.08-17.10.23:050][892]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/IMC_Default_Auto6648B04FC40369B7C9556BCBA82887CAB.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/Autosaves/Game/ThirdPerson/Input/IMC_Default_Auto6.uasset'
+[2026.02.08-17.10.23:052][892]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/Actions/IA_InventorySlotOne] ([1] browsable assets)...
+[2026.02.08-17.10.23:052][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/Actions/IA_InventorySlotOne]
+[2026.02.08-17.10.23:053][892]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Input/Actions/IA_InventorySlotOne_Auto6
+[2026.02.08-17.10.23:053][892]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/IA_InventorySlotOne_Auto62A7E24FA4955A87D7255EDA2C711BC32.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/Autosaves/Game/ThirdPerson/Input/Actions/IA_InventorySlotOne_Auto6.uasset'
+[2026.02.08-17.10.23:053][892]LogFileHelpers: Auto-saving content packages took 0.007
+[2026.02.08-17.10.53:730][216]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.11.02:539][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.11.02:591][771]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomScript/WB_Inventory] ([2] browsable assets)...
+[2026.02.08-17.11.02:594][771]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CustomScript/WB_Inventory.WB_Inventory]
+[2026.02.08-17.11.02:594][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomScript/WB_Inventory]
+[2026.02.08-17.11.02:594][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomScript/WB_Inventory" FILE="../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset" SILENT=true
+[2026.02.08-17.11.02:599][771]LogSavePackage: Moving output files for package: /Game/CustomScript/WB_Inventory
+[2026.02.08-17.11.02:600][771]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/WB_InventoryEB55A32A4F3BF06E1CC82096C5760FAA.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset'
+[2026.02.08-17.11.02:616][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.930 ms (total: 1.91 sec)
+[2026.02.08-17.11.02:663][771]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.11.02:663][771]LogContentValidation: Enabled validators:
+[2026.02.08-17.11.02:663][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.11.02:663][771]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.11.02:663][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.11.02:663][771]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.11.02:663][771]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.11.02:663][771]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.11.02:664][771]AssetCheck: /Game/CustomScript/WB_Inventory Validating asset
+[2026.02.08-17.11.33:355][453]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.11.44:604][487]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.11.55:186][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.02.08-17.12.51:634][554]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.13.02:592][587]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.15.24:034][182]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.15.34:234][212]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.15.46:499][249]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.15.48:906][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6047.516113
+[2026.02.08-17.15.49:908][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-17.15.49:908][259]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6048.182617, Update Interval: 359.207123
+[2026.02.08-17.16.01:096][293]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.16.16:900][340]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.16.30:275][487]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-17.16.30:276][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-17.16.30:284][487]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-17.16.30:284][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-17.16.30:391][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.02.08-17.17.01:450][821]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.17.19:398][875]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.17.28:694][386]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CustomScript/WB_Inventory.WB_Inventory
+[2026.02.08-17.17.28:696][386]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.02.08-17.17.28:704][386]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.02.08-17.17.37:162][690]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.17.56:695][749]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.18.09:833][751]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.02.08-17.18.09:892][751]LogSlate: Took 0.057446 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.02.08-17.18.56:894][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.18.56:936][414]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomScript/WB_Inventory] ([2] browsable assets)...
+[2026.02.08-17.18.56:939][414]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CustomScript/WB_Inventory.WB_Inventory]
+[2026.02.08-17.18.56:939][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomScript/WB_Inventory]
+[2026.02.08-17.18.56:939][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomScript/WB_Inventory" FILE="../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset" SILENT=true
+[2026.02.08-17.18.56:942][414]LogSavePackage: Moving output files for package: /Game/CustomScript/WB_Inventory
+[2026.02.08-17.18.56:943][414]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/WB_InventoryABEE00594C5F211E09F3DDB9EDE260D7.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset'
+[2026.02.08-17.18.56:958][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.403 ms (total: 1.97 sec)
+[2026.02.08-17.18.56:996][414]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.18.56:996][414]LogContentValidation: Enabled validators:
+[2026.02.08-17.18.56:996][414]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.18.56:996][414]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.18.56:996][414]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.18.56:996][414]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.18.56:996][414]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.18.56:997][414]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.18.56:997][414]AssetCheck: /Game/CustomScript/WB_Inventory Validating asset
+[2026.02.08-17.19.05:953][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.19.05:993][743]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CustomScript/WB_Inventory] ([2] browsable assets)...
+[2026.02.08-17.19.05:995][743]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CustomScript/WB_Inventory.WB_Inventory]
+[2026.02.08-17.19.05:995][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomScript/WB_Inventory]
+[2026.02.08-17.19.05:995][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomScript/WB_Inventory" FILE="../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset" SILENT=true
+[2026.02.08-17.19.05:998][743]LogSavePackage: Moving output files for package: /Game/CustomScript/WB_Inventory
+[2026.02.08-17.19.05:999][743]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/WB_Inventory6DEE5F514C1DF624439495AD2383B67D.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset'
+[2026.02.08-17.19.06:013][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.534 ms (total: 2.03 sec)
+[2026.02.08-17.19.06:056][743]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.19.06:056][743]LogContentValidation: Enabled validators:
+[2026.02.08-17.19.06:056][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.19.06:056][743]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.19.06:056][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.19.06:056][743]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.19.06:056][743]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.19.06:056][743]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.19.06:057][743]AssetCheck: /Game/CustomScript/WB_Inventory Validating asset
+[2026.02.08-17.19.16:116][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.19.16:193][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CustomScript/WB_Inventory] ([2] browsable assets)...
+[2026.02.08-17.19.16:193][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomScript/WB_Inventory]
+[2026.02.08-17.19.16:193][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomScript/WB_Inventory" FILE="../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset" SILENT=true
+[2026.02.08-17.19.16:198][893]LogSavePackage: Moving output files for package: /Game/CustomScript/WB_Inventory
+[2026.02.08-17.19.16:198][893]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/WB_Inventory8A2C43124E6164F2375B288DE392210F.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset'
+[2026.02.08-17.19.16:223][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.563 ms (total: 2.13 sec)
+[2026.02.08-17.19.16:265][893]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.19.16:265][893]LogContentValidation: Enabled validators:
+[2026.02.08-17.19.16:265][893]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.19.16:265][893]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.19.16:265][893]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.19.16:265][893]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.19.16:265][893]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.19.16:265][893]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.19.16:265][893]AssetCheck: /Game/CustomScript/WB_Inventory Validating asset
+[2026.02.08-17.19.17:099][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.02.08-17.19.23:631][152]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.19.39:773][200]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.19.50:083][231]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.20.14:756][305]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.21.56:211][249]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.21.56:747][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.02.08-17.21.56:751][250]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.028
+[2026.02.08-17.21.56:751][250]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.08-17.21.56:766][250]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.08-17.21.56:766][250]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.08-17.21.56:793][250]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7
+[2026.02.08-17.21.56:793][250]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_ThirdPersonCharacter_Auto7240B2FA94F4D571017E5528F1C5C6D0C.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto7.uasset'
+[2026.02.08-17.21.56:793][250]LogFileHelpers: Auto-saving content packages took 0.043
+[2026.02.08-17.22.29:124][350]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6447.760742
+[2026.02.08-17.22.29:297][365]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-17.22.29:297][365]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6447.921387, Update Interval: 329.048737
+[2026.02.08-17.22.33:892][560]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.22.57:384][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.22.57:421][789]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.08-17.22.57:430][789]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.08-17.22.57:430][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.08-17.22.57:448][789]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.08-17.22.57:449][789]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_ThirdPersonCharacter2610CAE44B04639FD966C4993082F2F1.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.08-17.22.57:467][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.748 ms (total: 2.22 sec)
+[2026.02.08-17.22.57:515][789]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.22.57:515][789]LogContentValidation: Enabled validators:
+[2026.02.08-17.22.57:515][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.22.57:515][789]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.22.57:515][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.22.57:515][789]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.22.57:515][789]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.22.57:516][789]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.22.57:516][789]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.08-17.24.03:694][140]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.25.08:072][572]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.26.21:819][601]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.26.34:449][639]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.27.00:927][861]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.27.47:245][836]LogSlate: Took 0.023928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.08-17.28.18:055][100]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.28.18:094][100]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.08-17.28.18:102][100]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.08-17.28.18:102][100]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.08-17.28.18:123][100]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.08-17.28.18:123][100]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_ThirdPersonCharacter4A3283814D8785C52BDDEEA973CE817B.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.08-17.28.18:139][100]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.880 ms (total: 2.30 sec)
+[2026.02.08-17.28.18:179][100]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.28.18:179][100]LogContentValidation: Enabled validators:
+[2026.02.08-17.28.18:179][100]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.28.18:179][100]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.28.18:179][100]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.28.18:179][100]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.28.18:179][100]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.28.18:179][100]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.28.18:179][100]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.08-17.28.19:360][164]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.28.35:524][816]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6814.170898
+[2026.02.08-17.28.35:689][829]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-17.28.35:689][829]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6814.323242, Update Interval: 345.904114
+[2026.02.08-17.28.44:895][275]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.28.57:429][780]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.29.21:207][864]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.29.48:025][844]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.30.10:113][911]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.31.26:390][485]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.32.39:162][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.32.39:203][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.08-17.32.39:212][468]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.08-17.32.39:212][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.08-17.32.39:232][468]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.08-17.32.39:232][468]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_ThirdPersonCharacterF337A73B41EB1DFBED4F30AC2BF49109.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.08-17.32.39:247][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.056 ms (total: 2.39 sec)
+[2026.02.08-17.32.39:286][468]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.32.39:286][468]LogContentValidation: Enabled validators:
+[2026.02.08-17.32.39:286][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.32.39:286][468]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.32.39:286][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.32.39:286][468]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.32.39:286][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.32.39:286][468]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.32.39:286][468]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.08-17.33.06:382][927]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.33.10:601][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.02.08-17.33.12:271][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.33.12:314][145]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.08-17.33.12:326][145]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.08-17.33.12:326][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.08-17.33.12:347][145]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.08-17.33.12:347][145]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_ThirdPersonCharacterB58F62364FBF943D4788E5A5AB745BFE.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.08-17.33.12:369][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.213 ms (total: 2.48 sec)
+[2026.02.08-17.33.12:409][145]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.33.12:409][145]LogContentValidation: Enabled validators:
+[2026.02.08-17.33.12:409][145]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.33.12:409][145]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.33.12:409][145]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.33.12:409][145]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.33.12:409][145]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.33.12:409][145]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.33.12:409][145]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.08-17.33.14:738][352]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.08-17.33.14:744][352]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.02.08-17.33.14:744][352]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.02.08-17.33.14:747][352]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.186 ms (total: 47.974 ms)
+[2026.02.08-17.33.14:747][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.08-17.33.14:779][352]LogPlayLevel: Display: Creating online subsystem for client :Context_28
+[2026.02.08-17.33.14:782][352]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2026.02.08-17.33.14:798][353]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.02.08-17.33.14:803][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004576s)
+[2026.02.08-17.33.14:804][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004660s)
+[2026.02.08-17.33.14:825][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.02.08-17.33.14:827][353]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.02.08-17.33.14:830][353]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.08-17.33.14:830][353]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.08-17.33.14:830][353]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.08-17.33.14:830][353]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.08-17.33.14:831][353]LogWorldPartition: Display: WorldPartition initialize took 1.638 ms (total: 1.09 sec)
+[2026.02.08-17.33.14:831][353]LogPlayLevel: PIE: World Init took: (0.003577s)
+[2026.02.08-17.33.14:832][353]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.02.08-17.33.14:832][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.08-17.33.14:832][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.08-17.33.14:832][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.08-17.33.14:832][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.08-17.33.14:833][353]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.08-17.33.14:833][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.08-17.33.14:833][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.08-17.33.14:833][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.08-17.33.14:833][353]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.08-17.33.14:833][353]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.08-17.33.14:833][353]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.08-17.33.14:835][353]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.08-17.33.14:886][353]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.08-17.33.14:886][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.08-17.33.14:886][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.08-17.33.14:886][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.08-17.33.14:886][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.02.08-17.33.14:886][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.02.08-17.33.14:890][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.02.08-17.33.14:890][353]LogInit: FAudioDevice initialized with ID 16.
+[2026.02.08-17.33.14:890][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.02.08-17.33.14:890][353]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonMap'.
+[2026.02.08-17.33.14:890][353]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.02.08-17.33.14:893][353]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.08-17.33.14:895][353]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.02.08-17.33.14
+[2026.02.08-17.33.14:896][353]LogWorld: Bringing up level for play took: 0.002516
+[2026.02.08-17.33.15:021][353]PIE: Server logged in
+[2026.02.08-17.33.15:022][353]PIE: Play in editor total start time 0.278 seconds.
+[2026.02.08-17.33.24:621][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-17.33.24:621][476]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.02.08-17.33.24:621][476]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-17.33.24:621][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-17.33.24:621][476]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.02.08-17.33.24:633][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.08-17.33.24:648][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-17.33.24:719][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-17.33.24:719][476]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.02.08-17.33.24:719][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.02.08-17.33.24:721][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.02.08-17.33.24:729][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.02.08-17.33.24:766][477]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2026.02.08-17.33.35:184][604]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.34.56:436][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.34.56:486][902]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.08-17.34.56:486][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.08-17.34.56:507][902]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.08-17.34.56:507][902]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_ThirdPersonCharacter8F4C063941BE84873DE8A8A63EDE3455.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.08-17.34.56:526][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.763 ms (total: 2.57 sec)
+[2026.02.08-17.34.56:567][902]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.34.56:567][902]LogContentValidation: Enabled validators:
+[2026.02.08-17.34.56:567][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.34.56:567][902]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.34.56:567][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.34.56:567][902]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.34.56:567][902]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.34.56:567][902]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.34.56:567][902]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.08-17.35.01:576][231]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7200.212402
+[2026.02.08-17.35.01:753][243]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-17.35.01:753][243]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7200.373047, Update Interval: 325.406647
+[2026.02.08-17.35.16:323][703]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2026.02.08-17.35.37:627][998]LogSlate: Window 'Save Asset As' being destroyed
+[2026.02.08-17.35.37:716][998]LogAutomationController: Ignoring very large delta of 8.26 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.02.08-17.35.55:333][121]LogSlate: Window 'Save Asset As' being destroyed
+[2026.02.08-17.35.55:447][121]LogAutomationController: Ignoring very large delta of 5.79 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.02.08-17.36.08:287][198]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.36.18:130][228]LogDerivedDataCache: C:/Users/unova/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.08-17.36.24:052][245]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.02.08-17.36.32:275][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.02.08-17.36.32:277][269]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.093
+[2026.02.08-17.36.32:277][269]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/IMC_Default] ([1] browsable assets)...
+[2026.02.08-17.36.32:278][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/IMC_Default]
+[2026.02.08-17.36.32:280][269]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Input/IMC_Default_Auto8
+[2026.02.08-17.36.32:280][269]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/IMC_Default_Auto8114CA371449063F4569C7E895058FC55.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/Autosaves/Game/ThirdPerson/Input/IMC_Default_Auto8.uasset'
+[2026.02.08-17.36.32:281][269]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/Actions/IA_InventorySlotTwo] ([1] browsable assets)...
+[2026.02.08-17.36.32:281][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/Actions/IA_InventorySlotTwo]
+[2026.02.08-17.36.32:282][269]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Input/Actions/IA_InventorySlotTwo_Auto8
+[2026.02.08-17.36.32:282][269]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/IA_InventorySlotTwo_Auto86DF337544F2A38F85C255EB1AB0F85FF.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/Autosaves/Game/ThirdPerson/Input/Actions/IA_InventorySlotTwo_Auto8.uasset'
+[2026.02.08-17.36.32:282][269]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/Actions/IA_InventorySlotThree] ([1] browsable assets)...
+[2026.02.08-17.36.32:282][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/Actions/IA_InventorySlotThree]
+[2026.02.08-17.36.32:283][269]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Input/Actions/IA_InventorySlotThree_Auto8
+[2026.02.08-17.36.32:283][269]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/IA_InventorySlotThree_Auto852A7EA4242B0A4B9448811914CD5CFA8.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/Autosaves/Game/ThirdPerson/Input/Actions/IA_InventorySlotThree_Auto8.uasset'
+[2026.02.08-17.36.32:284][269]LogFileHelpers: Auto-saving content packages took 0.007
+[2026.02.08-17.38.48:882][936]LogEditorTransaction: Undo Delete current selection
+[2026.02.08-17.39.49:790][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.39.49:826][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.08-17.39.49:835][709]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.08-17.39.49:835][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.08-17.39.49:858][709]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.08-17.39.49:859][709]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_ThirdPersonCharacter8FF0FECA430F402B6E5D20A6C48DB326.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.08-17.39.49:876][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.140 ms (total: 2.66 sec)
+[2026.02.08-17.39.49:916][709]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.39.49:916][709]LogContentValidation: Enabled validators:
+[2026.02.08-17.39.49:916][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.39.49:916][709]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.39.49:916][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.39.49:916][709]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.39.49:916][709]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.39.49:916][709]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.39.49:916][709]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.08-17.39.50:862][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.02.08-17.39.54:771][ 34]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.08-17.39.54:778][ 34]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.02.08-17.39.54:778][ 34]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.02.08-17.39.54:781][ 34]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.922 ms (total: 50.896 ms)
+[2026.02.08-17.39.54:781][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.08-17.39.54:781][ 34]LogPlayLevel: Display: Creating online subsystem for client :Context_29
+[2026.02.08-17.39.54:785][ 34]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.02.08-17.39.54:804][ 35]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.02.08-17.39.54:808][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004618s)
+[2026.02.08-17.39.54:808][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004690s)
+[2026.02.08-17.39.54:830][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.02.08-17.39.54:833][ 35]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.02.08-17.39.54:835][ 35]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.08-17.39.54:835][ 35]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.08-17.39.54:835][ 35]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.08-17.39.54:835][ 35]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.08-17.39.54:836][ 35]LogWorldPartition: Display: WorldPartition initialize took 1.364 ms (total: 1.09 sec)
+[2026.02.08-17.39.54:836][ 35]LogPlayLevel: PIE: World Init took: (0.003277s)
+[2026.02.08-17.39.54:838][ 35]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.02.08-17.39.54:838][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.08-17.39.54:838][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.08-17.39.54:838][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.08-17.39.54:838][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.08-17.39.54:838][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.08-17.39.54:838][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.08-17.39.54:838][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.08-17.39.54:838][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.08-17.39.54:838][ 35]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.08-17.39.54:838][ 35]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.08-17.39.54:838][ 35]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.08-17.39.54:842][ 35]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.08-17.39.54:892][ 35]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.08-17.39.54:892][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.08-17.39.54:893][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.08-17.39.54:893][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.08-17.39.54:893][ 35]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.02.08-17.39.54:893][ 35]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.02.08-17.39.54:896][ 35]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.02.08-17.39.54:896][ 35]LogInit: FAudioDevice initialized with ID 17.
+[2026.02.08-17.39.54:896][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.02.08-17.39.54:896][ 35]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonMap'.
+[2026.02.08-17.39.54:896][ 35]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.02.08-17.39.54:899][ 35]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.08-17.39.54:901][ 35]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.02.08-17.39.54
+[2026.02.08-17.39.54:901][ 35]LogWorld: Bringing up level for play took: 0.001870
+[2026.02.08-17.39.54:907][ 35]PIE: Server logged in
+[2026.02.08-17.39.54:908][ 35]PIE: Play in editor total start time 0.131 seconds.
+[2026.02.08-17.40.02:701][942]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'!
+[2026.02.08-17.40.02:701][942]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.08-17.40.02:701][942]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotTwoItem". Node:  Set Actor Hidden In Game Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.08-17.40.02:701][942]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotTwoItem". Node:  Set Actor Enable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.08-17.40.02:701][942]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotTwoItem". Node:  Set Simulate Physics Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.08-17.40.02:701][942]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue_1". Node:  Set Simulate Physics Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.08-17.40.09:080][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-17.40.09:080][702]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.02.08-17.40.09:080][702]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-17.40.09:081][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-17.40.09:081][702]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.02.08-17.40.09:087][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.08-17.40.09:092][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-17.40.09:116][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-17.40.09:117][702]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.02.08-17.40.09:117][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.02.08-17.40.09:119][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.02.08-17.40.09:127][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.02.08-17.40.09:238][703]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.02.08-17.40.11:758][955]LogSlate: Window 'Message Log' being destroyed
+[2026.02.08-17.40.11:773][955]LogSlate: Window 'Message Log' being destroyed
+[2026.02.08-17.40.22:087][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.02.08-17.40.23:935][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.40.23:979][707]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.08-17.40.23:988][707]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.08-17.40.23:988][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.08-17.40.24:010][707]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.08-17.40.24:011][707]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_ThirdPersonCharacterB557B22044CCE02D253404A0E393DD58.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.08-17.40.24:030][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.859 ms (total: 2.76 sec)
+[2026.02.08-17.40.24:075][707]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.40.24:075][707]LogContentValidation: Enabled validators:
+[2026.02.08-17.40.24:075][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.40.24:075][707]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.40.24:075][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.40.24:075][707]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.40.24:075][707]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.40.24:075][707]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.40.24:075][707]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.08-17.40.36:784][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-17.40.36:834][438]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.08-17.40.36:834][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.08-17.40.36:857][438]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.08-17.40.36:857][438]LogSavePackage: Moving '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_ThirdPersonCharacter275CEF484EA20C20358B92A815E7694A.tmp' to '../../../../../Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.08-17.40.36:877][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.457 ms (total: 2.85 sec)
+[2026.02.08-17.40.36:931][438]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-17.40.36:931][438]LogContentValidation: Enabled validators:
+[2026.02.08-17.40.36:931][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-17.40.36:931][438]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-17.40.36:931][438]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-17.40.36:931][438]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-17.40.36:931][438]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-17.40.36:931][438]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-17.40.36:931][438]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.08-17.40.39:903][695]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.08-17.40.39:909][695]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.02.08-17.40.39:909][695]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.02.08-17.40.39:911][695]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.111 ms (total: 53.008 ms)
+[2026.02.08-17.40.39:911][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.08-17.40.39:938][695]LogPlayLevel: Display: Creating online subsystem for client :Context_30
+[2026.02.08-17.40.39:941][695]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.02.08-17.40.39:963][696]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.02.08-17.40.39:968][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004661s)
+[2026.02.08-17.40.39:968][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.004712s)
+[2026.02.08-17.40.39:990][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.02.08-17.40.39:993][696]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.02.08-17.40.39:995][696]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.08-17.40.39:995][696]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.08-17.40.39:995][696]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.08-17.40.39:995][696]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.08-17.40.39:997][696]LogWorldPartition: Display: WorldPartition initialize took 1.323 ms (total: 1.09 sec)
+[2026.02.08-17.40.39:997][696]LogPlayLevel: PIE: World Init took: (0.003070s)
+[2026.02.08-17.40.39:998][696]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.02.08-17.40.39:998][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.08-17.40.39:998][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.08-17.40.39:998][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.08-17.40.39:998][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.08-17.40.39:998][696]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.08-17.40.39:998][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.08-17.40.39:998][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.08-17.40.39:998][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.08-17.40.39:998][696]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.08-17.40.39:998][696]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.08-17.40.39:998][696]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.08-17.40.40:000][696]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.08-17.40.40:046][696]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.02.08-17.40.40:046][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.08-17.40.40:046][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.08-17.40.40:046][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.08-17.40.40:047][696]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.02.08-17.40.40:047][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.02.08-17.40.40:050][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.02.08-17.40.40:050][696]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.02.08-17.40.40:050][696]LogInit: FAudioDevice initialized with ID 18.
+[2026.02.08-17.40.40:050][696]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonMap'.
+[2026.02.08-17.40.40:050][696]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.02.08-17.40.40:052][696]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.08-17.40.40:054][696]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.02.08-17.40.40
+[2026.02.08-17.40.40:055][696]LogWorld: Bringing up level for play took: 0.001891
+[2026.02.08-17.40.40:060][696]PIE: Server logged in
+[2026.02.08-17.40.40:061][696]PIE: Play in editor total start time 0.153 seconds.
+[2026.02.08-17.40.50:902][965]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'!
+[2026.02.08-17.40.50:902][965]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.08-17.40.50:902][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotTwoItem". Node:  Set Actor Hidden In Game Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.08-17.40.50:902][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotTwoItem". Node:  Set Actor Enable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.08-17.40.50:902][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SlotTwoItem". Node:  Set Simulate Physics Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.08-17.40.50:902][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetComponentByClass_ReturnValue_1". Node:  Set Simulate Physics Graph:  EventGraph Function:  Execute Ubergraph BP Third Person Character Blueprint:  BP_ThirdPersonCharacter
+[2026.02.08-17.40.50:902][965]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array Inventory [1/0]!
+[2026.02.08-17.40.50:902][965]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2026.02.08-17.40.52:189][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-17.40.52:189][115]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.02.08-17.40.52:189][115]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-17.40.52:190][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-17.40.52:190][115]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.02.08-17.40.52:196][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.08-17.40.52:202][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-17.40.52:227][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.08-17.40.52:227][115]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.02.08-17.40.52:227][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.02.08-17.40.52:229][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.02.08-17.40.52:233][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.08-17.40.52:237][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2026.02.08-17.40.52:346][116]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.02.08-17.40.54:265][305]LogSlate: Window 'Message Log' being destroyed
+[2026.02.08-17.40.54:280][305]LogSlate: Window 'Message Log' being destroyed
+[2026.02.08-17.41.03:852][768]LogSlate: Window 'WB_Inventory' being destroyed
+[2026.02.08-17.41.03:864][768]LogSlate: Window 'WB_Inventory' being destroyed
+[2026.02.08-17.41.03:869][768]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-17.41.03:869][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-17.41.04:305][768]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-17.41.04:305][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-17.41.04:312][768]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.02.08-17.41.04:312][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.08-17.41.04:554][768]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2026.02.08-17.41.13:708][605]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
