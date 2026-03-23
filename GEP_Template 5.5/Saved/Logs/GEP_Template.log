@@ -2631,3 +2631,168 @@ Make sure '/Game/CustomScript/BP_InventoryComponent.BP_InventoryComponent_C' has
 [2026.03.23-11.27.53:255][959]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CustomScript/BP_InventoryComponent_Auto3
 [2026.03.23-11.27.53:255][959]LogSavePackage: Moving 'D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_InventoryComponent_Auto396FAD0794EF89E6E80EE38A044FE8989.tmp' to 'D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/Autosaves/Game/CustomScript/BP_InventoryComponent_Auto3.uasset'
 [2026.03.23-11.27.53:257][959]LogFileHelpers: Auto-saving content packages took 0.041
+[2026.03.23-11.30.13:400][833]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2868.388428
+[2026.03.23-11.30.13:569][845]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-11.30.13:569][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2868.542236, Update Interval: 345.532410
+[2026.03.23-11.30.40:964][279]LogBlueprint: Error: [AssetLog] D:\jhtemp\gep-25-26-unreal-template-MeGunhild\GEP_Template 5.5\Content\CustomScript\BP_InventoryComponent.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To WB_Inventory  to imply a specific type.
+[2026.03.23-11.30.40:965][279]LogBlueprint: Error: [AssetLog] D:\jhtemp\gep-25-26-unreal-template-MeGunhild\GEP_Template 5.5\Content\CustomScript\BP_InventoryComponent.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2026.03.23-11.30.41:017][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.03.23-11.31.03:830][417]LogEditorTransaction: Undo Create Pin Link
+[2026.03.23-11.31.04:316][422]LogEditorTransaction: Undo Move Node
+[2026.03.23-11.31.04:845][440]LogEditorTransaction: Undo Delete current selection
+[2026.03.23-11.31.05:323][455]LogEditorTransaction: Undo Move Node
+[2026.03.23-11.31.05:792][470]LogEditorTransaction: Undo Create Pin Link
+[2026.03.23-11.31.07:978][575]LogEditorTransaction: Undo Move Node
+[2026.03.23-11.31.08:661][590]LogEditorTransaction: Undo Move Nodes
+[2026.03.23-11.31.12:542][803]LogEditorTransaction: Undo Delete current selection
+[2026.03.23-11.31.13:066][810]LogEditorTransaction: Undo Move Node
+[2026.03.23-11.31.13:442][823]LogEditorTransaction: Undo Delete current selection
+[2026.03.23-11.32.32:612][847]LogDerivedDataCache: C:/Users/jhj2-hember/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.23-11.33.38:290][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-11.33.38:343][954]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.23-11.33.38:381][954]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.23-11.33.38:381][954]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.23-11.33.38:395][954]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.23-11.33.38:397][954]LogSavePackage: Moving 'D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_ThirdPersonCharacter6597BBE94A79E8A6E57547B52BD488AD.tmp' to 'D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.23-11.33.38:407][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.367 ms (total: 563.384 ms)
+[2026.03.23-11.33.38:476][954]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-11.33.38:476][954]LogContentValidation: Enabled validators:
+[2026.03.23-11.33.38:476][954]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-11.33.38:476][954]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-11.33.38:476][954]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-11.33.38:476][954]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-11.33.38:476][954]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-11.33.38:476][954]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-11.33.38:477][954]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.23-11.33.39:365][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.03.23-11.33.42:191][125]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-11.33.42:244][125]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomScript/BP_InventoryComponent] ([2] browsable assets)...
+[2026.03.23-11.33.42:244][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomScript/BP_InventoryComponent]
+[2026.03.23-11.33.42:244][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomScript/BP_InventoryComponent" FILE="D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/BP_InventoryComponent.uasset" SILENT=true
+[2026.03.23-11.33.42:265][125]LogSavePackage: Moving output files for package: /Game/CustomScript/BP_InventoryComponent
+[2026.03.23-11.33.42:267][125]LogSavePackage: Moving 'D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_InventoryComponentF8D06A734E1DEA411897B89365834392.tmp' to 'D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/BP_InventoryComponent.uasset'
+[2026.03.23-11.33.42:278][125]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.360 ms (total: 651.744 ms)
+[2026.03.23-11.33.42:343][125]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-11.33.42:343][125]LogContentValidation: Enabled validators:
+[2026.03.23-11.33.42:343][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-11.33.42:343][125]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-11.33.42:343][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-11.33.42:343][125]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-11.33.42:343][125]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-11.33.42:343][125]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-11.33.42:343][125]AssetCheck: /Game/CustomScript/BP_InventoryComponent Validating asset
+[2026.03.23-11.33.45:178][283]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.23-11.33.45:186][283]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.03.23-11.33.45:186][283]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2026.03.23-11.33.45:188][283]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 2.430 ms (total: 34.037 ms)
+[2026.03.23-11.33.45:188][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.23-11.33.45:189][283]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.03.23-11.33.45:192][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003299s)
+[2026.03.23-11.33.45:193][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003352s)
+[2026.03.23-11.33.45:215][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.23-11.33.45:219][283]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2026.03.23-11.33.45:221][283]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.23-11.33.45:221][283]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.23-11.33.45:221][283]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.23-11.33.45:221][283]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.23-11.33.45:222][283]LogWorldPartition: Display: WorldPartition initialize took 1.265 ms (total: 93.915 ms)
+[2026.03.23-11.33.45:222][283]LogPlayLevel: PIE: World Init took: (0.002972s)
+[2026.03.23-11.33.45:223][283]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.03.23-11.33.45:223][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.23-11.33.45:223][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.23-11.33.45:223][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.23-11.33.45:223][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.23-11.33.45:223][283]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.23-11.33.45:223][283]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.23-11.33.45:223][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.23-11.33.45:223][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.23-11.33.45:223][283]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.23-11.33.45:224][283]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.23-11.33.45:224][283]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.23-11.33.45:227][283]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.23-11.33.45:261][283]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.23-11.33.45:261][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.23-11.33.45:262][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.23-11.33.45:262][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.23-11.33.45:262][283]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.03.23-11.33.45:262][283]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.03.23-11.33.45:265][283]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.03.23-11.33.45:265][283]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.03.23-11.33.45:265][283]LogInit: FAudioDevice initialized with ID 13.
+[2026.03.23-11.33.45:265][283]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonMap'.
+[2026.03.23-11.33.45:265][283]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.03.23-11.33.45:268][283]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.23-11.33.45:270][283]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2026.03.23-11.33.45
+[2026.03.23-11.33.45:270][283]LogWorld: Bringing up level for play took: 0.001530
+[2026.03.23-11.33.45:273][283]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2026.03.23-11.33.45:277][283]LogBlueprintUserMessages: [BP_InventoryComponent] Hello
+[2026.03.23-11.33.45:278][283]PIE: Server logged in
+[2026.03.23-11.33.45:279][283]PIE: Play in editor total start time 0.093 seconds.
+[2026.03.23-11.33.53:323][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.23-11.33.53:323][838]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2026.03.23-11.33.53:323][838]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.23-11.33.53:323][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-11.33.53:323][838]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2026.03.23-11.33.53:330][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.23-11.33.53:334][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.23-11.33.53:359][838]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.23-11.33.53:360][838]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.03.23-11.33.53:360][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2026.03.23-11.33.53:362][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2026.03.23-11.33.53:366][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.23-11.33.53:369][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.03.23-11.33.53:462][839]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2026.03.23-11.35.50:244][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-11.35.50:302][739]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomScript/BP_InventoryComponent] ([2] browsable assets)...
+[2026.03.23-11.35.50:302][739]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomScript/BP_InventoryComponent]
+[2026.03.23-11.35.50:302][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomScript/BP_InventoryComponent" FILE="D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/BP_InventoryComponent.uasset" SILENT=true
+[2026.03.23-11.35.50:323][739]LogSavePackage: Moving output files for package: /Game/CustomScript/BP_InventoryComponent
+[2026.03.23-11.35.50:324][739]LogSavePackage: Moving 'D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_InventoryComponent0A7A7F0F4ABB48282457F4837EC1C60F.tmp' to 'D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/BP_InventoryComponent.uasset'
+[2026.03.23-11.35.50:333][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.512 ms (total: 741.257 ms)
+[2026.03.23-11.35.50:400][739]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-11.35.50:400][739]LogContentValidation: Enabled validators:
+[2026.03.23-11.35.50:400][739]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-11.35.50:400][739]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-11.35.50:400][739]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-11.35.50:401][739]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-11.35.50:401][739]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-11.35.50:401][739]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-11.35.50:401][739]AssetCheck: /Game/CustomScript/BP_InventoryComponent Validating asset
+[2026.03.23-11.36.24:542][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-11.36.24:606][492]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.23-11.36.24:645][492]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.23-11.36.24:645][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.23-11.36.24:661][492]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.23-11.36.24:661][492]LogSavePackage: Moving 'D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_ThirdPersonCharacterE62B5FA648F4E04B80D6609282972304.tmp' to 'D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.23-11.36.24:675][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.414 ms (total: 873.672 ms)
+[2026.03.23-11.36.24:736][492]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-11.36.24:736][492]LogContentValidation: Enabled validators:
+[2026.03.23-11.36.24:737][492]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-11.36.24:737][492]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-11.36.24:737][492]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-11.36.24:737][492]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-11.36.24:737][492]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-11.36.24:737][492]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-11.36.24:737][492]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.23-11.36.30:834][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3245.802002
+[2026.03.23-11.36.30:999][798]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.23-11.36.30:999][798]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3245.949707, Update Interval: 357.647034
+[2026.03.23-11.38.22:743][507]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CustomScript/WBP_InvItem.WBP_InvItem
+[2026.03.23-11.38.22:744][507]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.03.23-11.38.22:751][507]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.03.23-11.38.36:349][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.23-11.38.36:409][110]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/CustomScript/BP_InventoryComponent] ([2] browsable assets)...
+[2026.03.23-11.38.36:409][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/CustomScript/BP_InventoryComponent]
+[2026.03.23-11.38.36:409][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CustomScript/BP_InventoryComponent" FILE="D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/BP_InventoryComponent.uasset" SILENT=true
+[2026.03.23-11.38.36:430][110]LogSavePackage: Moving output files for package: /Game/CustomScript/BP_InventoryComponent
+[2026.03.23-11.38.36:432][110]LogSavePackage: Moving 'D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Saved/BP_InventoryComponent88E5D810403D5B89BDECE8888A4EF6C8.tmp' to 'D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/BP_InventoryComponent.uasset'
+[2026.03.23-11.38.36:442][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.165 ms (total: 965.837 ms)
+[2026.03.23-11.38.36:510][110]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.23-11.38.36:510][110]LogContentValidation: Enabled validators:
+[2026.03.23-11.38.36:510][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.23-11.38.36:510][110]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.23-11.38.36:510][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.23-11.38.36:510][110]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.23-11.38.36:510][110]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.23-11.38.36:510][110]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.23-11.38.36:510][110]AssetCheck: /Game/CustomScript/BP_InventoryComponent Validating asset
