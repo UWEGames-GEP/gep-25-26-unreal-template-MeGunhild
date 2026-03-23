@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/Green.uasset",
+				"D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/Red.uasset",
+				"D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset",
+				"D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/BP_InventoryComponent.uasset",
 				"D:/Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
@@ -19,12 +26,6 @@
 				"D:/Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/BP_Item.uasset",
 				"D:/Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/BP_BlueTallCube.uasset",
 				"D:/Unity/Clones/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/BP_GreenCylinder.uasset",
-				"D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/Green.uasset",
-				"D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/Red.uasset",
-				"D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
-				"D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
-				"D:/jhtemp/gep-25-26-unreal-template-MeGunhild/GEP_Template 5.5/Content/CustomScript/WB_Inventory.uasset",
 				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
